@@ -1,0 +1,4 @@
+export const SENDREPORTS = "https://2yt6qqu9bbig.usemoralis.com:2053/server/functions/sendreport?_ApplicationId=glu0UxawhVFkrV6z3baLGmTM6578uZKBO51jJjkl";
+export const UPDATEPROFILE = "https://2yt6qqu9bbig.usemoralis.com:2053/server/functions/updateprofile?_ApplicationId=glu0UxawhVFkrV6z3baLGmTM6578uZKBO51jJjkl";
+export const GETUSERPROFILE = "https://2yt6qqu9bbig.usemoralis.com:2053/server/functions/getUserProfile?_ApplicationId=glu0UxawhVFkrV6z3baLGmTM6578uZKBO51jJjkl";
+export const GETREPORTS = "https://2yt6qqu9bbig.usemoralis.com:2053/server/functions/getReports?_ApplicationId=glu0UxawhVFkrV6z3baLGmTM6578uZKBO51jJjkl";
